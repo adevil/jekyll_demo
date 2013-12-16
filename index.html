@@ -5,8 +5,8 @@ title: 我的Blog
 <!--h2>{{ page.title }}</h2>
 <p>最新文章</p-->
 <ul>
-     <li><a href="bookmarks.html">常去站点</a></li>
-     <li><a href="bookmarks_m.html">常去站点移动版</a></li>
+     <li><a href="bookmarks.html">[置顶]常去站点</a></li>
+     <li><a href="bookmarks_m.html">[置顶]常去站点移动版</a></li>
 	 <br/>
 　　{% for post in site.posts %}
 　　　　<li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
