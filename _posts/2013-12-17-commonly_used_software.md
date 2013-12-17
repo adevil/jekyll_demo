@@ -18,38 +18,37 @@ title: 常用软件
 - ms office
 - foxit reader
 - adode acrobat
+- MarkdownPad
 
-### dev ###
-
-#### scm ####
+### scm ###
 - svn
 - git
 
-#### delphi ####
+### delphi ###
 - cnpack
 - euralog
 - dev2011
 - unidac
 - others
 
-#### java/js ####
+### java ###
 - jdk
 - android sdk
 - gae sdk
 - ant
 - intellij
 
-#### db ####
+### db ###
 - mssql
 - sqlite
 
-#### debug ####
+### debug ###
 - wireshark
 - spy++
 - dbgview
 - tcptrace
 
-#### other ####
+### other ###
 - putty
 - powerdesigner
 - rose
@@ -77,3 +76,4 @@ title: 常用软件
 - sqlite manager
 - FireGestures
 - autoproxy
+- firebug
