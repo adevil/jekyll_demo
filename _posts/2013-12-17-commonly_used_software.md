@@ -20,29 +20,35 @@ title: 常用软件
 - adode acrobat
 
 ### dev ###
+
 #### scm ####
 - svn
 - git
+
 #### delphi ####
 - cnpack
 - euralog
 - dev2011
 - unidac
-- ...
+- others
+
 #### java/js ####
 - jdk
 - android sdk
 - gae sdk
 - ant
 - intellij
+
 #### db ####
 - mssql
 - sqlite
+
 #### debug ####
 - wireshark
 - spy++
 - dbgview
 - tcptrace
+
 #### other ####
 - putty
 - powerdesigner
