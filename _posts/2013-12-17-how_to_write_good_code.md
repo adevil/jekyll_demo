@@ -5,11 +5,11 @@ title: how to write good code
 
 ### for user not for developer ###
 
-### observe the [design principle](design_principle.html) ###
+### observe the [design principle](2013/12/17/design_principle.html) ###
 
 ### keep it simple ###
 
-### continual [restructure](restructure_principle.html) ###
+### continual [restructure](2013/12/18/restructure_principle.html) ###
 - good name
 - oo
 - functional programming
