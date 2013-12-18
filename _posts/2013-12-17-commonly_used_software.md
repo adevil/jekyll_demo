@@ -33,10 +33,12 @@ title: 常用软件
 
 ### java ###
 - jdk
+- intellij idea
 - android sdk
 - gae sdk
 - ant
-- intellij
+- maven
+- tomcat
 
 ### db ###
 - mssql
@@ -48,12 +50,14 @@ title: 常用软件
 - dbgview
 - tcptrace
 
-### other ###
-- putty
+### design ###
 - powerdesigner
 - rose
 - axurerp
 - freemind
+
+### other ###
+- putty
 - notebook
 
 ### internet ###
