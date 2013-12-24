@@ -16,3 +16,9 @@ title: how to write good code
 - short func
 - self check
 
+### code standard ###
+
+
+### code review ###
+
+
