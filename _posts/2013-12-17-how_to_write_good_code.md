@@ -12,11 +12,11 @@ icon: file-alt
 
 ### for user not for developer ###
 
-### 遵循[设计原则](/2013/12/17/design_principle.html) ###
+### 遵循[设计原则](/2013/12/17/design_principle) ###
 
 ### keep it simple stupid ###
 
-### 持续[重构](/2013/12/18/restructure_principle.html) ###
+### 持续[重构](/2013/12/18/restructure_principle) ###
 - good name
 - oo
 - functional programming
