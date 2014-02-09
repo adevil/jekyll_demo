@@ -3,6 +3,8 @@
 {% case site.site.analytics.provider %}
 {% when "google" %}
   {% include site/analytics-providers/google %}
+{% when "baidu" %}
+  {% include site/analytics-providers/baidu %}
 {% when "getclicky" %}
   {% include site/analytics-providers/getclicky %}
 {% when "mixpanel" %}
