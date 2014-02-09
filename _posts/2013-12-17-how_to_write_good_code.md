@@ -1,7 +1,14 @@
 ---
-layout: default
-title: how to write good code
+layout: post
+keywords: 代码 质量
+description: 如何写好代码
+title: 代码质量
+categories: [代码]
+tags: [代码]
+group: archive
+icon: file-alt
 ---
+{% include site/setup %}
 
 ### for user not for developer ###
 
@@ -14,7 +21,7 @@ title: how to write good code
 - oo
 - functional programming
 - short func
-- self check
+- self test
 
 ### code standard ###
 

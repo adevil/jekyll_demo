@@ -1,7 +1,14 @@
 ---
-layout: default
+layout: post
+keywords: 常用 软件
+description: 常用软件
 title: 常用软件
+categories: [软件]
+tags: [软件]
+group: archive
+icon: file-alt
 ---
+{% include site/setup %}
 
 ### system ###
 - avg

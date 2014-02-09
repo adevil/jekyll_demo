@@ -3,8 +3,8 @@ layout: post
 keywords: 阅读
 description: 最近阅读
 title: 最近阅读
-categories: [reading]
-tags: [reading]
+categories: [阅读]
+tags: [阅读]
 group: archive
 icon: file-alt
 ---
