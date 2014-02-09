@@ -1,8 +1,8 @@
 ---
 layout: post
 keywords: 代码 质量
-description: 如何写好代码
-title: 代码质量
+description: 代码质量
+title: 如何写好代码
 categories: [代码]
 tags: [代码]
 group: archive
