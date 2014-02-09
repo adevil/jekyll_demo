@@ -3,8 +3,8 @@ layout: post
 keywords: 重构
 description: 重构的原则
 title: 重构的原则
-categories: [代码]
-tags: [代码]
+categories: [开发]
+tags: [重构]
 group: archive
 icon: file-alt
 ---
