@@ -4,7 +4,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 # 分页配置，每页最多显示几篇文章
-paginate: 4
+paginate: 10
 
 # 修改为自己的配置
 title : adevil's blog
@@ -12,7 +12,7 @@ tagline: simple is beautyful
 author :
   name : adevil
   email : adevil23@gmail.com
-  github : adevil23
+  github : adevil
   twitter : 
 
 # The production_url is only used when full-domain names are needed
@@ -94,7 +94,7 @@ site :
   # 如果想自定义分析服务提供商，请自行google
   # provider : google 
   analytics :
-    provider : false 
+    provider : baidu 
     google : 
         tracking_id : ''
 
