@@ -15,7 +15,7 @@ icon: file-alt
 ### 一次只处理一件事情，尽可能减少影响 ###
 - unit test
 
-### keep it simple ###
+### keep it simple stupid ###
 
 ### good smell ###
 - good name
