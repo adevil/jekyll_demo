@@ -21,6 +21,8 @@ icon: file-alt
 - oo
 - functional programming
 - short func
+- param object
+- const 魔数
 - self test
 
 ### code standard ###
