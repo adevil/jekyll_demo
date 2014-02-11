@@ -1,11 +1,21 @@
 ---
-layout: default
+layout: page
 title: 常去站点
+header: bookmarks
+group: navigation
+index: 4
 ---
-<h2>{{ page.title }}</h2>
-<ul>
-<li><a href="http://www.infoq.com/cn/">infoq</a></li>
-<li><a href="http://www.rememberthemilk.com">rememberthemilk</a></li>
-<li><a href="http://stackoverflow.com">stackoverflow</a></li>
-<li><a href="https://appengine.google.com/">gae</a></li>
-</ul>
+{% include site/setup %}
+<div class="tabbable tabs-right row-fluid">
+  <div class="tab-content">
+    <div class="tab-pane">
+      <ul class="posts-list">
+		<li><a href="http://www.infoq.com/cn/">infoq</a></li>
+		<li><a href="http://www.rememberthemilk.com">rememberthemilk</a></li>
+		<li><a href="http://stackoverflow.com">stackoverflow</a></li>
+		<li><a href="https://appengine.google.com/">gae</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+{% include site/comments %}
