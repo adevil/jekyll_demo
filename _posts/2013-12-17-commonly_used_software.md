@@ -12,7 +12,7 @@ icon: file-alt
 
 ### system ###
 - avg
-- sogou ime
+- bing ime
 - winrar
 - autohotkey
 - daemon tools lite
@@ -37,6 +37,7 @@ icon: file-alt
 - dev2011
 - unidac
 - others
+- Restorator(resource editor)
 
 ### java ###
 - jdk
@@ -46,6 +47,7 @@ icon: file-alt
 - ant
 - maven
 - tomcat
+- jsonview
 
 ### db ###
 - mssql
@@ -56,6 +58,8 @@ icon: file-alt
 - spy++
 - dbgview
 - tcptrace
+- fiddler2
+- aqtime
 
 ### design ###
 - powerdesigner
@@ -78,6 +82,7 @@ icon: file-alt
 - dropbox 
 - kuaipan 
 - baiduyun
+- yunpan.360.cn
 
 ### firefox plugin ###
 - adblock plus

@@ -10,6 +10,9 @@ icon: file-alt
 ---
 {% include site/setup %}
 
+### 选择合适的时机 ###
+- 马上就要发布时不要重构
+
 ### extend instead of modify ###
 
 ### 一次只处理一件事情，尽可能减少影响 ###
