@@ -52,6 +52,8 @@ icon: file-alt
 ### db ###
 - mssql
 - sqlite
+- dbeaver
+- navcat
 
 ### debug ###
 - wireshark
