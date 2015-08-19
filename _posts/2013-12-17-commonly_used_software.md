@@ -53,7 +53,7 @@ icon: file-alt
 - mssql
 - sqlite
 - dbeaver
-- navcat
+- navicat
 
 ### debug ###
 - wireshark
