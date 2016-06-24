@@ -52,6 +52,8 @@ icon: file-alt
 ### db ###
 - mssql
 - sqlite
+- dbeaver
+- navcat
 
 ### debug ###
 - wireshark
@@ -68,8 +70,8 @@ icon: file-alt
 - freemind
 
 ### other ###
-- putty
-- notebook
+- xshell
+- wiz
 
 ### internet ###
 - firefox 
@@ -80,9 +82,9 @@ icon: file-alt
 - icbc 
 - cmb
 - dropbox 
-- kuaipan 
 - baiduyun
 - yunpan.360.cn
+- lastpass
 
 ### firefox plugin ###
 - adblock plus
