@@ -9,10 +9,10 @@ highlighter: rouge
 paginate: 10
 
 # 修改为自己的配置
-title : adevil's blog
+title : 简单之美
 tagline: simple is beautyful
 author :
-  name : adevil
+  name : adevil.x
   email : adevil23@gmail.com
   github : adevil
   twitter : 
